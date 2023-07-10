@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1021375517646-dtnct0o9hdenoo43r47lgpfh1o2hjlfa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1021375517646-dtnct0o9hdenoo43r47lgpfh1o2hjlfa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1021375517646-hvqk90euu1sc58md0qhghgou6ig75k83.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-65W6gFhampjfp4sfROaFa0pr6QLWyX0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1021375517646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gamesDesign</string>
+	<key>PROJECT_ID</key>
+	<string>authentication-919ef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authentication-919ef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1021375517646:ios:04b1f8efb8f05d4a29519f</string>
+	<key>DATABASE_URL</key>
+	<string>https://authentication-919ef-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
